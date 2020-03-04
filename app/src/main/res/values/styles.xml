@@ -8,4 +8,8 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="txt_digite"></style>
+
+    <style name="btn_digite">clique aqui</style>
+
 </resources>
