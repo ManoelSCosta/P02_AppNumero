@@ -2,7 +2,6 @@
     <string name="app_name">P02_AppNumero</string>
     <string name="txt_digite">Digite um número inteiro:</string>
     <string name="btn_digite">ok</string>
-    <string name="btn_digite">ok</string>
     <string name="txt_num_digitados">Números Digitados:</string>
     <string name="txt_quant_impares">Quantidade de Números ímpares:</string>
     <string name="txt_quant_pares">Quantidade de Pares</string>
